@@ -1,5 +1,3 @@
 language: python
-install: 
-    - pip install boto3
 script: 
     - python sample.py
